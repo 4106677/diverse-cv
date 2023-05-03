@@ -1,7 +1,12 @@
-export const Simpsons = () => {
+import { Header } from 'components/Header/Header';
+import { Container } from './Simpsons.styled';
+
+const Simpsons = () => {
   return (
-    <>
-      <p>Simpsons</p>
-    </>
+    <Container>
+      <Header></Header>
+    </Container>
   );
 };
+
+export default Simpsons;

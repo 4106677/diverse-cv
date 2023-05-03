@@ -2,7 +2,7 @@
 // import avatar from '../../images/avatar.png';
 // import github from '../../images/github.svg';
 // import { useState } from 'react';
-import { HomePosters } from 'components/HomePosters/HomePosters';
+import HomePosters from 'components/HomePosters/HomePosters';
 
 const Home = () => {
   // const [isHover, setIsHover] = useState(false);
@@ -24,7 +24,10 @@ const Home = () => {
     //     </a>
     //   </>
     // </Container>
-    <HomePosters />
+    <>
+      <HomePosters />
+      <p>text lorem</p>
+    </>
   );
 };
 

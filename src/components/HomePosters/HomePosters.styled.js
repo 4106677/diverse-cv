@@ -28,7 +28,7 @@ export const List = styled.div`
   text-align: center;
 `;
 
-export const NavTo = styled(NavLink)`
+export const Poster = styled.li`
   &:last-child {
     height: 100%;
   }
@@ -38,6 +38,7 @@ export const NavTo = styled(NavLink)`
   background-clip: padding-box;
   background-position: bottom 10px;
   background-repeat: no-repeat;
+  /* background-size: cover; */
   background-position: center;
 
   min-width: 380px;
@@ -52,4 +53,34 @@ export const NavTo = styled(NavLink)`
 
   display: flex;
   flex-direction: column;
+`;
+
+export const NavTo = styled(NavLink)`
+  &:last-child {
+    height: 100%;
+  }
+
+  background-image: url(${props => props.poster}),
+    linear-gradient(114.99deg, #471ca9 -0.99%, #5736a3 54.28%, #4b2a99 78.99%);
+  background-clip: padding-box;
+  background-position: bottom 10px;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-position: center;
+
+  min-width: 380px;
+  height: 300px;
+
+  box-shadow: -2.5777px 6.87386px 20.6216px rgba(0, 0, 0, 0.23);
+  border-radius: 20px;
+
+  padding: 28px 36px 36px 36px;
+
+  flex: 1 1 calc((100% / 3) - 2rem);
+
+  display: flex;
+  flex-direction: column;
+
+  /* width: 100%;
+  height: 100%; */
 `;

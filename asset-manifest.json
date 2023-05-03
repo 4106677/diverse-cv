@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/diverse-cv/static/js/main.d31be0f3.js",
+    "static/js/661.80ddc650.chunk.js": "/diverse-cv/static/js/661.80ddc650.chunk.js",
+    "static/js/390.9a9ca7b2.chunk.js": "/diverse-cv/static/js/390.9a9ca7b2.chunk.js",
+    "static/media/got.png": "/diverse-cv/static/media/got.fa11789bb04813c04989.png",
+    "static/media/simpsons.png": "/diverse-cv/static/media/simpsons.9cd88fde07127ce4bcde.png",
+    "static/media/cyberpunk.png": "/diverse-cv/static/media/cyberpunk.30f95c769980a444ee22.png",
+    "static/media/netflix.png": "/diverse-cv/static/media/netflix.d420f9120c6997872d05.png",
+    "index.html": "/diverse-cv/index.html",
+    "main.d31be0f3.js.map": "/diverse-cv/static/js/main.d31be0f3.js.map",
+    "661.80ddc650.chunk.js.map": "/diverse-cv/static/js/661.80ddc650.chunk.js.map",
+    "390.9a9ca7b2.chunk.js.map": "/diverse-cv/static/js/390.9a9ca7b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d31be0f3.js"
+  ]
+}

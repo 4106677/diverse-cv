@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/diverse-cv/static/js/main.051f9761.js",
+    "main.js": "/diverse-cv/static/js/main.dde30b39.js",
     "static/js/661.70e1ee48.chunk.js": "/diverse-cv/static/js/661.70e1ee48.chunk.js",
     "static/js/390.9a9ca7b2.chunk.js": "/diverse-cv/static/js/390.9a9ca7b2.chunk.js",
-    "static/js/760.e78e28b6.chunk.js": "/diverse-cv/static/js/760.e78e28b6.chunk.js",
+    "static/js/760.21880b32.chunk.js": "/diverse-cv/static/js/760.21880b32.chunk.js",
     "static/media/got.png": "/diverse-cv/static/media/got.fa11789bb04813c04989.png",
     "static/media/avatar.png": "/diverse-cv/static/media/avatar.dcbfc46881f346065cb8.png",
     "static/media/simpsons.png": "/diverse-cv/static/media/simpsons.9cd88fde07127ce4bcde.png",
     "static/media/cyberpunk.png": "/diverse-cv/static/media/cyberpunk.30f95c769980a444ee22.png",
     "static/media/netflix.png": "/diverse-cv/static/media/netflix.d420f9120c6997872d05.png",
     "index.html": "/diverse-cv/index.html",
-    "main.051f9761.js.map": "/diverse-cv/static/js/main.051f9761.js.map",
+    "main.dde30b39.js.map": "/diverse-cv/static/js/main.dde30b39.js.map",
     "661.70e1ee48.chunk.js.map": "/diverse-cv/static/js/661.70e1ee48.chunk.js.map",
     "390.9a9ca7b2.chunk.js.map": "/diverse-cv/static/js/390.9a9ca7b2.chunk.js.map",
-    "760.e78e28b6.chunk.js.map": "/diverse-cv/static/js/760.e78e28b6.chunk.js.map"
+    "760.21880b32.chunk.js.map": "/diverse-cv/static/js/760.21880b32.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.051f9761.js"
+    "static/js/main.dde30b39.js"
   ]
 }

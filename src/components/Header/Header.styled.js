@@ -43,11 +43,15 @@ export const Item = styled.li`
 `;
 
 export const AvatarHeader = styled.img`
+  &:hover {
+    transform: rotate(-0.5turn);
+    transition: 300ms;
+  }
   /* position: absolute;
   right: 0;
   top: 0; */
 
   height: 60px;
-  /* margin-left: auto; */
+  transition: 300ms;
   border-radius: 50%;
 `;
